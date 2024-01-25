@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ibk-1
+- 👀 I’m interested in AI/Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science/ AI Projects, Also Azure Cloud Service Projects.
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/ibrahim-kalil-jh-92616b190?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BViutoF6CQNe8QedqJPbkbA%3D%3D)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Ml algorithmn are just math's equations :)
