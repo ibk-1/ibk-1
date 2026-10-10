@@ -11,6 +11,7 @@ M.Sc. Data Science student at **Hamburg University of Technology (TUHH)**, build
 
 | Project | What it is |
 |---|---|
+| [**ondevice-llm-bench**](https://github.com/ibk-1/ondevice-llm-bench) | How small can an on-device assistant model be? 7 quantised LLMs (llama.cpp) benchmarked on German/English appointment extraction: speed, memory and accuracy |
 | [**spmll-thesis**](https://github.com/ibk-1/spmll-thesis) | Multi-label image classification from a single positive label per image, guided by mined logical rules and fuzzy-logic penalties |
 | [**stripe-docs-rag-app**](https://github.com/ibk-1/stripe-docs-rag-app) | RAG assistant over the Stripe docs: hybrid BM25 + vector search, cross-encoder reranking, FastAPI + Streamlit |
 | [**hci-project**](https://github.com/ibk-1/hci-project) | Human-centred AI lab: RLHF from scratch, active learning, explainability (GOSDT, counterfactuals), recommender study |
